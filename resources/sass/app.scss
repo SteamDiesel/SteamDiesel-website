@@ -1,0 +1,34 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+@import "tailwindcss/base";
+body {
+	font: 'Nunito';
+}
+
+h1 {
+@apply text-4xl font-bold;
+}
+h2 {
+@apply text-2xl font-semibold;
+}
+h3 {
+@apply text-xl font-bold;
+}
+h4 {
+@apply text-lg font-semibold;
+}
+p {
+	@apply leading-loose mb-2;
+}
+a {
+@apply text-blue-600 underline;
+}
+
+
+@import "tailwindcss/components";
+
+
+
+@import "tailwindcss/utilities";
+
