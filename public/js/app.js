@@ -1461,7 +1461,7 @@ var staticRenderFns = [
               {
                 staticClass:
                   "px-4 hover:underline no-underline font-semibold text-gray-800 text-3xl",
-                attrs: { href: "/" }
+                attrs: { title: "Home page", href: "/" }
               },
               [_vm._v("\n\t\t\t\tSteamDiesel\n\t\t\t")]
             ),

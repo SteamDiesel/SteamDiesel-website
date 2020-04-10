@@ -21,6 +21,18 @@ h4 {
 p {
 	@apply leading-loose mb-2;
 }
+ul {
+	list-style-type: circle;
+	padding-left: theme('padding.4');
+  }
+  
+  ol {
+	list-style-type: decimal;
+	padding-left: theme('padding.4');
+  }
+li {
+	@apply leading-loose mb-2;
+}
 a {
 @apply text-blue-600 underline;
 }

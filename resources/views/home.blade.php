@@ -50,9 +50,14 @@
                     </div>
                     <div class="px-2 py-4 md:px-4 md:py-4 max-w-160">
                         <h4>Unlimited possibilities</h4>
-                        <p>Your website is more than a set of static pages. With our technology, fully bespoke
-                            features are possible and easily integrated.</p>
-                        <p>Stand out from the crowd with interactive features, forms and tools for your users.</p>
+                        <p>Your website is more than a set of static pages. You can easily integrate:</p>
+                        <ul class="ml-4">
+                            <li>Subscription paywall for content or features</li>
+                            <li>Per user OR per team based subscription billing</li>
+                            <li>Bill your subscription users based on usage or specific metrics</li>
+                            <li>Annual or monthly subscription options</li>
+                        </ul>
+                        <p>Stand out from your competition with interactive features, forms and tools.</p>
                     </div>
                     <div class="flex justify-start">
                         <div class="rounded shadow bg-gray-300 px-3 py-1">
@@ -84,7 +89,7 @@
                         <h4>Launch, learn, iterate, repeat.</h4>
                         <p>Listening to your users is the most important part of launching. Invest in the features your
                             users want and need.</p>
-                        <p>We'll help you brainstorm more features because we live and breathe features.</p>
+                        <p>We'll help you brainstorm additional features because we live and breathe features.</p>
                     </div>
                     <div class="flex justify-start">
                         <div class="rounded shadow bg-gray-300 px-3 py-1">
@@ -143,7 +148,7 @@
     </div>
 </section>
 
-<section>
+{{-- <section>
     <div class="min-h-screen px-10 md:px-32">
         <div class="pt-12 pb-4 mb-12 sticky top-0 w-full bg-white">
             <h2>
@@ -168,7 +173,7 @@
 
         </div>
     </div>
-</section>
+</section> --}}
 
 <section>
     <div class="min-h-screen px-10 md:px-32">
@@ -179,20 +184,21 @@
         </div>
         <div>
             <div class="px-2 py-4 md:px-4 md:py-4 max-w-160">
-                <h3>We're all based in Brisbane</h3>
+                <h3>Brisbane based design and development team</h3>
                 <p>We don't send our work off-shore. When you engage us you can be confident we're treating your project
                     with the highest priority.</p>
                 <p>Brisbane is chock full of extremely talented artists, musicians, designers and web developers.
-                    There's no need to look further than your own back yard!</p>
+                    You will find the highest quality craftsmanship in your own back yard!</p>
             </div>
             <div class="px-2 py-4 md:px-4 md:py-4 max-w-160">
-                <h3>We communicate</h3>
-                <p>We promise to keep you in the loop on a daily basis. We want to hear from you and keep you engaged in
-                    the design and development process from start to launch! <br> It's your project, after all, you're the
-                    protagonist!</p>
+                <h3>We communicate clearly and often</h3>
+				<p>We'll keep you updated as we make progress, and translate our industry jargon to make understanding us easier.</p>
+				<p>We're always ready to take your call, but we'll keep you updated daily with status and progress reports.</p>
             </div>
             <div class="px-2 py-4 md:px-4 md:py-4 max-w-160">
-                <h3>Tailwind</h3>
+                <h3>We're surprisingly affordable</h3>
+                <p>We keep our overheads low and pass on the savings in our schedule of fees.</p>
+                <p>Every cent you spend with us is paid to the professionals who are actually providing value to you.</p>
                 <p></p>
             </div>
         </div>

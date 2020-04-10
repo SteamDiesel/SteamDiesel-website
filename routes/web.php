@@ -55,67 +55,67 @@ Route::get('/contact', function () {
 });
 Route::get('/stack/laravel', function () {
 	return view('laravel', [
-		'url' => '/laravel',
+		'url' => '/stack/laravel',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/stack/vuejs', function () {
 	return view('vuejs', [
-		'url' => '/vuejs',
+		'url' => '/stack/vuejs',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/stack/tailwind', function () {
 	return view('tailwind', [
-		'url' => '/tailwind',
+		'url' => '/stack/tailwind',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/websites', function () {
 	return view('websites', [
-		'url' => '/websites',
+		'url' => '/services/websites',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/apps', function () {
 	return view('apps', [
-		'url' => '/apps',
+		'url' => '/services/apps',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/design', function () {
 	return view('design', [
-		'url' => '/design',
+		'url' => '/services/design',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/marketing', function () {
 	return view('marketing', [
-		'url' => '/marketing',
+		'url' => '/services/marketing',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/marketing/ppc', function () {
 	return view('ppc', [
-		'url' => '/ppc',
+		'url' => '/services/marketing/ppc',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/marketing/seo', function () {
 	return view('seo', [
-		'url' => '/seo',
+		'url' => '/services/marketing/seo',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/marketing/social_media', function () {
 	return view('social_media', [
-		'url' => '/social_media',
+		'url' => '/services/marketing/social_media',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });
 Route::get('/services/hosting', function () {
 	return view('hosting', [
-		'url' => '/hosting',
+		'url' => '/services/hosting',
 		'title' => 'Website & App Developer in Brisbane',
 		'description' => 'Create your next website or application with a Brisbane based Full Stack Web Developer using Laravel, Vue Js and Tailwind.']);
 });

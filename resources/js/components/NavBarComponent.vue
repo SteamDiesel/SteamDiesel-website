@@ -3,7 +3,7 @@
 		
 	   <div class="fixed top-0 w-full h-12 md:block hidden">
 			<div class="bg-gray-200 flex justify-between items-center h-full">
-				<a class="px-4 hover:underline no-underline font-semibold text-gray-800 text-3xl" href="/">
+				<a class="px-4 hover:underline no-underline font-semibold text-gray-800 text-3xl" title="Home page" href="/">
 					SteamDiesel
 				</a>
 				<nav class="w-2/3 flex justify-around mx-4 text-sm">
